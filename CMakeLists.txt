@@ -7,4 +7,6 @@ add_executable(leetcode-dynamic-programming main.cpp
         longest-palindrome/LongestPalindrome.cpp
         longest-palindrome/LongestPalindrome.h
         match-pattern/MatchPattern.cpp
-        match-pattern/MatchPattern.h)
+        match-pattern/MatchPattern.h
+        generate-parentheses/GenerateParentheses.cpp
+        generate-parentheses/GenerateParentheses.h)
