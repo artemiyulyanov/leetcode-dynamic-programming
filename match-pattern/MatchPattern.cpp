@@ -1,6 +1,6 @@
 #include "MatchPattern.h"
 
-bool MatchPattern::is_match(const std::string &text, const std::string &pattern) {
+bool MatchPattern::isMatch(const std::string &text, const std::string &pattern) {
     const size_t n = text.length();
     const size_t m = pattern.length();
 

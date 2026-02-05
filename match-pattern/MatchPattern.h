@@ -6,7 +6,7 @@
 
 class MatchPattern {
 public:
-    static bool is_match(const std::string& text, const std::string& pattern);
+    static bool isMatch(const std::string& text, const std::string& pattern);
 };
 
 #endif //LEETCODE_DYNAMIC_PROGRAMMING_MATCH_PATTERN_H
