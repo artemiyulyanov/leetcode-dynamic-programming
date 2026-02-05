@@ -9,4 +9,6 @@ add_executable(leetcode-dynamic-programming main.cpp
         match-pattern/MatchPattern.cpp
         match-pattern/MatchPattern.h
         generate-parentheses/GenerateParentheses.cpp
-        generate-parentheses/GenerateParentheses.h)
+        generate-parentheses/GenerateParentheses.h
+        longest-valid-parentheses/LongestValidParentheses.cpp
+        longest-valid-parentheses/LongestValidParentheses.h)
