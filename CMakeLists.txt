@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 4.1)
-project(leetcode_dynamic_programming)
+project(leetcode_tasks)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(leetcode-dynamic-programming main.cpp
+add_executable(leetcode-tasks main.cpp
         longest-palindrome/LongestPalindrome.cpp
         longest-palindrome/LongestPalindrome.h
         match-pattern/MatchPattern.cpp
@@ -11,4 +11,6 @@ add_executable(leetcode-dynamic-programming main.cpp
         generate-parentheses/GenerateParentheses.cpp
         generate-parentheses/GenerateParentheses.h
         longest-valid-parentheses/LongestValidParentheses.cpp
-        longest-valid-parentheses/LongestValidParentheses.h)
+        longest-valid-parentheses/LongestValidParentheses.h
+        climbing-stairs/ClimbingStairs.cpp
+        climbing-stairs/ClimbingStairs.h)
