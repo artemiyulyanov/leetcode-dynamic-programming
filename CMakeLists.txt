@@ -13,4 +13,6 @@ add_executable(leetcode-tasks main.cpp
         longest-valid-parentheses/LongestValidParentheses.cpp
         longest-valid-parentheses/LongestValidParentheses.h
         climbing-stairs/ClimbingStairs.cpp
-        climbing-stairs/ClimbingStairs.h)
+        climbing-stairs/ClimbingStairs.h
+        palindrome-number/PalindromeNumber.cpp
+        palindrome-number/PalindromeNumber.h)
