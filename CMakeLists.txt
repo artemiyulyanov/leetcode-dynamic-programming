@@ -15,4 +15,6 @@ add_executable(leetcode-tasks main.cpp
         climbing-stairs/ClimbingStairs.cpp
         climbing-stairs/ClimbingStairs.h
         palindrome-number/PalindromeNumber.cpp
-        palindrome-number/PalindromeNumber.h)
+        palindrome-number/PalindromeNumber.h
+        pascal-triangle/PascalTriangle.cpp
+        pascal-triangle/PascalTriangle.h)
