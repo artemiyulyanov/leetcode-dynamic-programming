@@ -17,4 +17,6 @@ add_executable(leetcode-tasks main.cpp
         palindrome-number/PalindromeNumber.cpp
         palindrome-number/PalindromeNumber.h
         pascal-triangle/PascalTriangle.cpp
-        pascal-triangle/PascalTriangle.h)
+        pascal-triangle/PascalTriangle.h
+        longest-substring-without-repeating-characters/LongestSubstringWithoutRepeatingCharacters.cpp
+        longest-substring-without-repeating-characters/LongestSubstringWithoutRepeatingCharacters.h)
