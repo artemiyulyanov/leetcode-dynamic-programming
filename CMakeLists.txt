@@ -21,4 +21,6 @@ add_executable(leetcode-tasks main.cpp
         longest-substring-without-repeating-characters/LongestSubstringWithoutRepeatingCharacters.cpp
         longest-substring-without-repeating-characters/LongestSubstringWithoutRepeatingCharacters.h
         maximum-subarray/MaximumSubarray.cpp
-        maximum-subarray/MaximumSubarray.h)
+        maximum-subarray/MaximumSubarray.h
+        jump-game-two/JumpGameTwo.cpp
+        jump-game-two/JumpGameTwo.h)
