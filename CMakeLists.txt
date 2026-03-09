@@ -19,4 +19,6 @@ add_executable(leetcode-tasks main.cpp
         pascal-triangle/PascalTriangle.cpp
         pascal-triangle/PascalTriangle.h
         longest-substring-without-repeating-characters/LongestSubstringWithoutRepeatingCharacters.cpp
-        longest-substring-without-repeating-characters/LongestSubstringWithoutRepeatingCharacters.h)
+        longest-substring-without-repeating-characters/LongestSubstringWithoutRepeatingCharacters.h
+        maximum-subarray/MaximumSubarray.cpp
+        maximum-subarray/MaximumSubarray.h)
