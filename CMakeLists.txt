@@ -23,4 +23,6 @@ add_executable(leetcode-tasks main.cpp
         maximum-subarray/MaximumSubarray.cpp
         maximum-subarray/MaximumSubarray.h
         jump-game-two/JumpGameTwo.cpp
-        jump-game-two/JumpGameTwo.h)
+        jump-game-two/JumpGameTwo.h
+        perfect-rectangle/PerfectRectangle.cpp
+        perfect-rectangle/PerfectRectangle.h)
