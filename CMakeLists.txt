@@ -25,4 +25,7 @@ add_executable(leetcode-tasks main.cpp
         jump-game-two/JumpGameTwo.cpp
         jump-game-two/JumpGameTwo.h
         perfect-rectangle/PerfectRectangle.cpp
-        perfect-rectangle/PerfectRectangle.h)
+        perfect-rectangle/PerfectRectangle.h
+        minimum-path-sum/MinimumPathSum.cpp
+        minimum-path-sum/MinimumPathSum.h
+)
